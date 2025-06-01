@@ -1,0 +1,32 @@
+{
+  "name": "eslint-plugin-header-license",
+  "version": "1.0.0",
+  "description": "ESLint plugin to enforce license header",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "rules"
+  ],
+  "author": "Aliaksandr Mirankou",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">=8.0.0 <10.0.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "template license",
+    "styles license",
+    "license",
+    "header",
+    "copyright"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-mirankov/eslint-plugin-header-license.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alex-mirankov/eslint-plugin-header-license/issues"
+  },
+  "homepage": "https://github.com/alex-mirankov/eslint-plugin-header-license#readme"
+}
